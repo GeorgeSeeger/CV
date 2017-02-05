@@ -33,4 +33,4 @@ A 16-week intensive development bootcamp, focusing on :
 *QA tester for the AGILEReporter product and development of regulatory templates*  
 
 ## Hobbies and Interests
-- **Powerlifting**: I am an international level [powerlifter](powerlifting-ipf.com), in 2015 I represented Australia at U23 World Powerlifting Championships in Finland and in 2017 I have been invited to compete for Great Britain at the Senior World Bench Press in Lithuania
+- **Powerlifting**: I am an international level [powerlifter](www.powerlifting-ipf.com), in 2015 I represented Australia at U23 World Powerlifting Championships in Finland and in 2017 I have been invited to compete for Great Britain at the Senior World Bench Press in Lithuania
