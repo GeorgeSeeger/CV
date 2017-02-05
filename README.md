@@ -1,6 +1,8 @@
 # George Seeger
 
-I am an energetic junior full stack web developer. I started programming in python during my Physics degree at Durham University, I worked in QA for a year for a medium size fintech company and have finished a 12 week development course at [Makers Academy](https://github.com/makersacademy) with an aim to move from QA to development
+I am an energetic junior full stack web developer. I started programming in python during my Physics degree at Durham University, I worked in QA for a year for a medium size fintech company and have finished a 12 week development course at [Makers Academy](https://github.com/makersacademy) with an aim to move from QA to development.
+
+I am a quick study, during my role at Lombard Risk I taught myself VBA, automated web testing in Java (Selenium) and at Maker's I learned Ruby and Javascript. As a side project during my time at Maker's, I have taken on learning Common LISP as an exercise, and to see if the 'hype' surrounding the language/paradigm is true.
 
 
 ## Education
@@ -29,3 +31,6 @@ A 16-week intensive development bootcamp, focusing on :
 
 **Developer/Tester at Lombard Risk** (Aug '15 - Aug '16)    
 *QA tester for the AGILEReporter product and development of regulatory templates*  
+
+## Hobbies and Interests
+- **Powerlifting**: I am an international level powerlifter, in 2015 I represented Australia at U23 World Powerlifting Championships in Finland and in 2017 I have been invited to compete for Great Britain at the Senior World Bench Press in Lithuania
