@@ -5,6 +5,16 @@ I am an energetic junior full stack web developer. I started programming in pyth
 I am a quick study, during my role at Lombard Risk I taught myself VBA, automated web testing in Java (Selenium) and at Maker's I learned Ruby and Javascript. As a side project during my time at Maker's, I have taken on learning Common LISP as an exercise, and to see if the 'hype' surrounding the language/paradigm is true.
 
 
+## Projects
+
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [The Cube](https://github.com/sultanhq/makers_cube) | The Cube is an art project to create a 6 sided LED cube which is interactive, decorative and customisable. | Linux, Python, Django, Javascript, CSS, WebSockets, Slack and OpenWeatherMap APIs |
+| [MakersBNB](https://github.com/georgeseeger/makersbnb)| MakersBNB is an AirBNB clone that allows you to post and request to stay in other peoples' homes | Ruby, Rails, HTML, CSS, PostgreSQL|
+| [Social Experience](https://github.com/ejatkin/social-experience) | Social Experience allows you to post about an experience you had somewhere in the world, and allows you to find other's experiences by location| NodeJS, MongoDB, Javascript, HTML|
+| [Advent of Code](https://github.com/georgeseeger/adventofcode) | A few of my solutions to [adventofcode.com](http://adventofcode.com/2016) | Ruby|
+
 ## Education
 
 #### Makers Academy (Nov '16 - Feb '16)
