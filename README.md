@@ -18,7 +18,7 @@ I genuinely enjoy programming, doing kata style programming challenges most days
 
 ## Experience
 
-**Software Engineer at Polylytics** (Mar '17 - present)
+**Software Engineer at Polylytics** (Mar '17 - present)   
 *Full stack web developer working in C# for backend. ASP.Net MVC, Azure, etc.*
 
 **Developer/Tester at Lombard Risk** (Aug '15 - Aug '16)    
